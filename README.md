@@ -1,4 +1,4 @@
-#Algorithms &amp; Data Structures
+# Algorithms &amp; Data Structures
 
  An **algorithm** is the steps taken to solve a problem. A **data structure** is data organized for efficient access. You can use an algorithm to solve all kinds of problems (i.e., searching for a piece of data or sorting a collection of data) for a given data structure.  
  
