@@ -4,19 +4,19 @@
  
 ## Search a Data Structure
 ### Linear Search
- ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/resource/linear_search.gif)
+ ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/assets/linear_search.gif)
 ### Binery Search
-  ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/resource/binary_search.gif)
-  
+  ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/asstes/binary_search.gif)
+
  ## Sorting a Data Structure
  ### Bubble Sort  
- ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/resource/Sorting_bubblesort_anim.gif)
+ ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/asstes/Sorting_bubblesort_anim.gif)
 
 ### Selection Sort  
- ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/resource/Sorting_selectionsort_anim.gif)
+ ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/asstes/Sorting_selectionsort_anim.gif)
 
 ### Insertion Sort  
- ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/resource/Sorting_insertionsort_anim.gif)
+ ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/asstes/Sorting_insertionsort_anim.gif)
 
  
 
