@@ -1,5 +1,7 @@
 # -Algorithms-Data-Structures
- Algorithms &amp; Data Structures  
+   Algorithms &amp; Data Structures    
+
+ An algorithm is the steps taken to solve a problem. A data structure is data organized for efficient access. You can use an algorithm to solve all kinds of problems (i.e., searching for a piece of data or sorting a collection of data) for a given data structure.  
  
  Bubble Sort  
  ![alt text](https://raw.githubusercontent.com/alex9176787890/-Algorithms-Data-Structures/master/resource/Sorting_bubblesort_anim.gif)
