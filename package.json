@@ -4,7 +4,7 @@
   "description": "An **algorithm** is the steps taken to solve a problem. A **data structure** is data organized for efficient access. You can use an algorithm to solve all kinds of problems (i.e., searching for a piece of data or sorting a collection of data) for a given data structure.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alex9176787890/-Algorithms-Data-Structures/issues"
   },
-  "homepage": "https://github.com/alex9176787890/-Algorithms-Data-Structures#readme"
+  "homepage": "https://github.com/alex9176787890/-Algorithms-Data-Structures#readme",
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
 }
